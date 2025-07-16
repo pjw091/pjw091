@@ -7,3 +7,5 @@
 ```py
 print("hello, GitHub!")
 ```
+
+That is so funny! :joy:
